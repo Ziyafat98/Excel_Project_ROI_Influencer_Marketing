@@ -50,8 +50,28 @@ Across all platforms, Giveaway campaigns achieved the highest total sales (668,2
 ## Result:
 ![](Visulation/visual6.png) 
 
+Campaigns lasting 22–29 days achieved the highest engagement (19,244,788) and sales (961,753), indicating that longer campaign durations tend to perform better in both metrics.
+### 7.Monthly performance
+## Result:
+![](Visulation/visual7.png) 
 
+Monthly performance shows that July recorded the highest sales (319,732), while October had the lowest (226,114). Sales generally peaked in mid-year and declined toward the end of the year.
+### Final Dashboard – Influencer Marketing ROI Overview
+## Result: 
+The final dashboard provides an overall view of sales, engagement, and campaign performance across all categories and platforms. 
+![](Visulation/dashboard.png) 
 
+## Conclusion and Recommendations
+1.For the fitness target audience – Expand reach to a wider audience.   
+2.For Food & Beauty – Use short Q&A sessions, polls, and live product demonstrations. Share discount codes in posts.    
+3.A balanced test strategy should be implemented across platforms.    
+4.For other weaker campaigns:     
+5.Stronger Call-to-Action (CTA)       
+6.More visual interactivity     
+7.During the summer season, run motivational campaigns to increase audience engagement.         
+8.Longer advertising duration = higher sales
+### End Note
+This project summarizes the key insights from influencer marketing data using Excel, highlighting performance patterns and ROI-driven decisions.
 
    
 
