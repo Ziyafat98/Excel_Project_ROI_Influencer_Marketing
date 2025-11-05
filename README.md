@@ -35,7 +35,7 @@ According to the “Engagement per Category” visualization, the Food category 
 ### 3. Count of Campaign per Platform
 ## Result:
 
-![Chart 3](Visulation/visual3.png) 
+![Chart 3](Visulation/visual3.png)
 
 
 ### 4.Sales, Reach and Engagement by Platform (ROI)
